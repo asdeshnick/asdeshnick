@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning at school
 - 📫 How to reach me andreymarche@icloud.com
 
+messenger 
+wk - https://vk.com/chelovek_339
 
 <!---
 asdeshnick/asdeshnick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
