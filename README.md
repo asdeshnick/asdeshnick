@@ -4,7 +4,6 @@
 - 📫 How to reach me andreymarche@icloud.com
 
 messenger 
-- wk - https://vk.com/chelovek_339
 - tg - https://t.me/Romadanich777
 - ds - andreyka666
 <!---
