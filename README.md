@@ -5,7 +5,8 @@
 - 📫 How to reach me andreymarche@icloud.com
 
 ### messenger 
-- telegram - https://t.me/Romadanich777
+- telegram - Asdeshnick
+- telegram-channel - https://t.me/alkash_exe
 - discord - Asdeshnick
 ### music 
 
