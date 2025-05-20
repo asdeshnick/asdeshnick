@@ -5,8 +5,8 @@
 - 📫 How to reach me andreymarche@icloud.com
 
 ### messenger 
-- tg - https://t.me/Romadanich777
-- ds - andreyka666
+- telegram - https://t.me/Romadanich777
+- discord - Asdeshnick
 ### music 
 
 - playlist - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/1016?utm_medium=copy_link)
