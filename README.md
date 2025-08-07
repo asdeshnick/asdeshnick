@@ -11,7 +11,7 @@
 
 ### 🎵 music 
 - playlist - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/1016?utm_medium=copy_link)
-- playlist_love - [yandex-music]([https://music.yandex.ru/users/AnDrEw21032008/playlists/1016?utm_medium=copy_link](https://music.yandex.ru/users/AnDrEw21032008/playlists/3?utm_source=desktop&utm_medium=copy_link))
+- playlist_love - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/3?utm_source=desktop&utm_medium=copy_link)
 
 ### 🛠️ Languages:
 <div class="column">
