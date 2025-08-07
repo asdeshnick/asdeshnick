@@ -14,8 +14,7 @@
 
 
 ### 🛠️ Languages:
-<div class="column">
-<div class="row">
+
 <img align="left" alt="C#" title="C#" width="26px" src="./resources/cs.svg?raw=true" />
 <img align="left" alt="Java" title="Java" width="26px" src="./resources/java.svg?raw=true" />
 <img align="left" alt="Bash" title="Bash" width="26px" src="./resources/bash.svg?raw=true" />
