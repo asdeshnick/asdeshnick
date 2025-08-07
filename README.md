@@ -1,15 +1,15 @@
-### info
+### ❗info
 - 👋 Hi, I’m @asdeshnick
 - 👀 I’m interested in Programming!
 - 🌱 I’m currently learning at school
 - 📫 How to reach me andreymarche@icloud.com
 
-### messenger 
+### 💬 messenger 
 - telegram - Asdeshnick
 - telegram-channel - https://t.me/alkash_exe
 - discord - Asdeshnick
 
-### music 
+### 🎵 music 
 - playlist - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/1016?utm_medium=copy_link)
 
 
