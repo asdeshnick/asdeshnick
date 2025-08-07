@@ -11,6 +11,7 @@
 
 ### 🎵 music 
 - playlist - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/1016?utm_medium=copy_link)
+<iframe frameborder="0" allow="clipboard-write" style="border:none;width:614px;height:556px;" width="614" height="556" src="https://music.yandex.ru/iframe/playlist/AnDrEw21032008/3">Слушайте <a href="https://music.yandex.ru/playlists/lk.0116e601-30a3-4670-984e-32302314c59f">Мне нравится</a> — <a href="https://music.yandex.ru/users/AnDrEw21032008">Андрей</a> на Яндекс Музыке</iframe>
 
 
 ### 🛠️ Languages:
