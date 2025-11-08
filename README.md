@@ -10,9 +10,7 @@
 - discord - Asdeshnick
 
 ### 🎵 music 
-- playlist - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/1016?utm_medium=copy_link)
-- playlist_love - [yandex-music](https://music.yandex.ru/users/AnDrEw21032008/playlists/3?utm_source=desktop&utm_medium=copy_link)
-- playlist_Apple -[apple-music](https://music.apple.com/ru/playlist/%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B5-%D0%BF%D0%B5%D1%81%D0%BD%D0%B8/pl.u-6AU8e0Jojq)
+
 
 ### 🛠️ Languages:
 <div class="column">
