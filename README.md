@@ -6,7 +6,7 @@
 
 ### 💬 messenger:
 - telegram - @Livesseyy
-- telegram-channel - https://t.me/alkash_exe
+- [telegram-channel](https://t.me/alkash_exe)
 - discord - livesey_man
 
 ### 🎵 music 
