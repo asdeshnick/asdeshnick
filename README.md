@@ -7,7 +7,7 @@
 ### 💬 messenger:
 - telegram - Asdeshnick
 - telegram-channel - https://t.me/alkash_exe
-- discord - Asdeshnick
+- discord - livesey_man
 
 ### 🎵 music 
 
