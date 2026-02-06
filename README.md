@@ -5,7 +5,7 @@
 - 📫 How to reach me andreymarche@icloud.com
 
 ### 💬 messenger:
-- telegram - Asdeshnick
+- telegram - @Livesseyy
 - telegram-channel - https://t.me/alkash_exe
 - discord - livesey_man
 
