@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BlexMono&size=24&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=445&height=60&lines=I+love+math+and+programming)](https://git.io/typing-svg)
+
+
 ### ❗info
 - 👋 Hi, I’m @asdeshnick
 - 👀 I’m interested in Programming!
